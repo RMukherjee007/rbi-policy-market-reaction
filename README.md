@@ -142,21 +142,6 @@ Visualization includes:
 
 ---
 
-# Architecture Diagram
-
-<p align="center">
-<img src="docs/architecture.png" width="850">
-</p>
-
----
-
-# Workflow Graph
-
-<p align="center">
-<img src="docs/workflow-graph.png" width="850">
-</p>
-
----
 
 # Project Structure
 
