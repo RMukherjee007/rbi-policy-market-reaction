@@ -1,4 +1,4 @@
-# RBI Policy Market Reaction Analysis 📈
+# RBI Policy Market Reaction Analysis 
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3.10+-blue?logo=python">
@@ -246,14 +246,6 @@ The framework reduces manual Excel event-study workflows from **hours to millise
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername">
-</p>
-
----
-
-# Repository Activity
-
-<p align="center">
-<img src="https://activity-graph.herokuapp.com/graph?username=yourusername">
 </p>
 
 ---
