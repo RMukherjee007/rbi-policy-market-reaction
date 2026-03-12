@@ -208,9 +208,6 @@ python main.py
 
 # Example Chart Output
 
-<p align="center">
-<img src="docs/sample-output-chart.png" width="850">
-</p>
 
 Charts clearly illustrate how:
 
