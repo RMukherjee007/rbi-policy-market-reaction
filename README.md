@@ -15,10 +15,6 @@
 A modular Python-based quantitative event study framework designed to analyze how Reserve Bank of India (RBI) monetary policy decisions influence Indian bond yields and banking sector equities.
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=rbi-policy-market-reaction">
-</p>
-
 ---
 
 # Overview
